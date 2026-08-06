@@ -5,14 +5,12 @@ Inquadri un'immagine e compare il modello 3D dell'invenzione + una scheda descri
 Tutto statico, ospitabile gratis su GitHub Pages.
 
 ## I file
+**`index.html`**  Il **visore**: fotocamera, riconosce le immagini, mostra 3D + descrizione 
+**`studio.html`**  Lo **studio** allinea le opere 
+**`manifest.json`** I collegamenti immagine→modello→descrizione  
+**`targets.mind`**  Punti di ancoraggio 
+**`models/`**  I modelli `.glb` (opera00.glb … opera07.glb) 
 
-| File | A cosa serve | 
-|---|---|---|
-| **`index.html`** | Il **visore**: fotocamera, riconosce le immagini, mostra 3D + descrizione |
-| **`studio.html`** | Lo **studio** allinea le opere |
-| **`manifest.json`** | I collegamenti immagine→modello→descrizione  | 
-| **`targets.mind`** | Punti di ancoraggio | 
-| **`models/`** | I modelli `.glb` (opera00.glb … opera07.glb) | 
 ## Pubblicare
 1. Crea una repo GitHub (es. `POLI-INVENT`), pubblica.
 2. Carica: `index.html`, `studio.html`, `manifest.json`, `targets.mind`, e i modelli in `models/`.
