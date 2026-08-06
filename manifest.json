@@ -1,0 +1,93 @@
+{
+  "mind": "targets.mind",
+  "targets": [
+    {
+      "target": 0,
+      "name": "Opera 1",
+      "desc": "",
+      "model": "models/opera00.glb",
+      "scale": 1,
+      "position": [0, 0, 0],
+      "rotation": [0, 0, 0],
+      "amb": 1,
+      "dir": 0.8
+    },
+    {
+      "target": 1,
+      "name": "Forlanini - Idroplano",
+      "desc": "",
+      "model": "models/opera01.glb",
+      "scale": 3.05,
+      "position": [0, 0, 0.95],
+      "rotation": [90, 0, 0],
+      "amb": 1.1,
+      "dir": 0.9
+    },
+    {
+      "target": 2,
+      "name": "Forlanini - Dirigibile",
+      "desc": "",
+      "model": "models/opera02.glb",
+      "scale": 3.05,
+      "position": [0, 0, 0.75],
+      "rotation": [90, 0, 0],
+      "amb": 1,
+      "dir": 0.8
+    },
+    {
+      "target": 3,
+      "name": "Natta - Polipropilene isotattico",
+      "desc": "",
+      "model": "models/opera03.glb",
+      "scale": 2,
+      "position": [0, 0, 0.9],
+      "rotation": [90, 0, 0],
+      "amb": 1,
+      "dir": 0.8
+    },
+    {
+      "target": 4,
+      "name": "Luigi Dadda - Dadda Multiplier",
+      "desc": "",
+      "model": "models/opera04.glb",
+      "scale": 2,
+      "position": [0, 0, 0.6],
+      "rotation": [90, 0, 0],
+      "amb": 1,
+      "dir": 0.8
+    },
+    {
+      "target": 5,
+      "name": "Francesco Carassa - Satellite SIRIO",
+      "desc": "",
+      "model": "models/opera05.glb",
+      "scale": 2,
+      "position": [0, 0, 0.7],
+      "rotation": [180, 0, 0],
+      "amb": 1,
+      "dir": 0.8
+    },
+    {
+      "target": 6,
+      "name": "Amalia Ercoli Finzi - Sistema SD2 di Rosetta",
+      "desc": "",
+      "model": "models/opera06.glb",
+      "scale": 2,
+      "position": [0, 0, 0.5],
+      "rotation": [90, 0, 0],
+      "amb": 1,
+      "dir": 0.8
+    },
+    {
+      "target": 7,
+      "name": "Traguardo raggiunto!",
+      "desc": "CONGRATULAZIONI. Hai risolto la caccia e raggiunto il tesoro. Hai seguito le invenzioni del passato. Ora tocca a te. E tu cosa inventeresti?",
+      "model": "models/opera07.glb",
+      "scale": 1.5,
+      "position": [0, 0, 0.45],
+      "rotation": [90, 0, 0],
+      "amb": 1,
+      "dir": 0.8
+    }
+  ]
+}
