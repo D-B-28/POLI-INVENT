@@ -6,7 +6,7 @@ Tutto statico, ospitabile gratis su GitHub Pages.
 
 ## I file
 
-| File | A cosa serve | Chi lo usa |
+| File | A cosa serve | 
 |---|---|---|
 | **`index.html`** | Il **visore**: fotocamera, riconosce le immagini, mostra 3D + descrizione |
 | **`studio.html`** | Lo **studio** allinea le opere |
