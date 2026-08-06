@@ -3,14 +3,14 @@
   "targets": [
     {
       "target": 0,
-      "name": "Opera 1",
+      "name": "Forlanini ",
       "desc": "",
-      "model": "models/opera07.glb",
-      "scale": 1,
+      "model": "models/opera00.glb",
+      "scale": 2.5,
       "position": [
         0,
         0,
-        0
+        0.4
       ],
       "rotation": [
         0,
