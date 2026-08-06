@@ -5,21 +5,37 @@
       "target": 0,
       "name": "Opera 1",
       "desc": "",
-      "model": "models/opera00.glb",
+      "model": "models/opera07.glb",
       "scale": 1,
-      "position": [0, 0, 0],
-      "rotation": [0, 0, 0],
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
       "amb": 1,
       "dir": 0.8
     },
     {
       "target": 1,
-      "name": "Forlanini - Idroplano",
+      "name": "Forlanini - Idroplano ",
       "desc": "",
       "model": "models/opera01.glb",
-      "scale": 3.05,
-      "position": [0, 0, 0.95],
-      "rotation": [90, 0, 0],
+      "scale": 2,
+      "position": [
+        0,
+        0,
+        0.5
+      ],
+      "rotation": [
+        0,
+        90,
+        0
+      ],
       "amb": 1.1,
       "dir": 0.9
     },
@@ -28,9 +44,17 @@
       "name": "Forlanini - Dirigibile",
       "desc": "",
       "model": "models/opera02.glb",
-      "scale": 3.05,
-      "position": [0, 0, 0.75],
-      "rotation": [90, 0, 0],
+      "scale": 2,
+      "position": [
+        0,
+        -0.05,
+        0.35
+      ],
+      "rotation": [
+        0,
+        90,
+        0
+      ],
       "amb": 1,
       "dir": 0.8
     },
@@ -40,8 +64,16 @@
       "desc": "",
       "model": "models/opera03.glb",
       "scale": 2,
-      "position": [0, 0, 0.9],
-      "rotation": [90, 0, 0],
+      "position": [
+        0,
+        0,
+        0.2
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
       "amb": 1,
       "dir": 0.8
     },
@@ -51,41 +83,73 @@
       "desc": "",
       "model": "models/opera04.glb",
       "scale": 2,
-      "position": [0, 0, 0.6],
-      "rotation": [90, 0, 0],
+      "position": [
+        0,
+        0,
+        0.25
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
       "amb": 1,
       "dir": 0.8
     },
     {
       "target": 5,
       "name": "Francesco Carassa - Satellite SIRIO",
-      "desc": "",
+      "desc": "Anno: 1977 \n\nNel 1977 venne lanciato SIRIO, il primo satellite italiano dedicato alle telecomunicazioni sperimentali. Il progetto, sviluppato con un importante contributo scientifico di Francesco Carassa, aveva l’obiettivo di sperimentare comunicazioni via satellite a frequenze molto elevate, fino a 18 GHz. SIRIO raggiunse l’orbita geostazionaria e permise di studiare la propagazione delle onde radio attraverso l’atmosfera. La missione rappresentò un importante passo avanti per la ricerca italiana nel campo delle telecomunicazioni satellitari e contribuì allo sviluppo delle tecnologie utilizzate nelle successive comunicazioni spaziali.",
       "model": "models/opera05.glb",
-      "scale": 2,
-      "position": [0, 0, 0.7],
-      "rotation": [180, 0, 0],
+      "scale": 1.6,
+      "position": [
+        0,
+        0,
+        0.55
+      ],
+      "rotation": [
+        90,
+        0,
+        0
+      ],
       "amb": 1,
       "dir": 0.8
     },
     {
       "target": 6,
       "name": "Amalia Ercoli Finzi - Sistema SD2 di Rosetta",
-      "desc": "",
+      "desc": "Anno: 1990–1999\nMissione Rosetta: 2004–2016\n\nAmalia Ercoli Finzi guidò lo sviluppo scientifico del sistema SD2 (Sampling, Drilling and Distribution), progettato per la missione europea Rosetta e installato sul lander Philae. Il dispositivo aveva il compito di perforare la superficie della cometa 67P/Churyumov-Gerasimenko, raccogliere campioni e trasferirli agli strumenti scientifici per l’analisi. Il trapano poteva raggiungere circa 23 centimetri di profondità. SD2 fu fondamentale per ottenere materiale direttamente dalla superficie della cometa, permettendo di studiarne la composizione in condizioni mai sperimentate prima.",
       "model": "models/opera06.glb",
       "scale": 2,
-      "position": [0, 0, 0.5],
-      "rotation": [90, 0, 0],
+      "position": [
+        0,
+        0,
+        0.5
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
       "amb": 1,
       "dir": 0.8
     },
     {
       "target": 7,
-      "name": "Traguardo raggiunto!",
-      "desc": "CONGRATULAZIONI. Hai risolto la caccia e raggiunto il tesoro. Hai seguito le invenzioni del passato. Ora tocca a te. E tu cosa inventeresti?",
+      "name": "CONGRATULAZIONI  ",
+      "desc": "Hai risolto la caccia e raggiunto il tesoro.\nHai seguito le invenzioni del passato.  \nOra tocca a te. \n E tu cosa inventeresti?",
       "model": "models/opera07.glb",
       "scale": 1.5,
-      "position": [0, 0, 0.45],
-      "rotation": [90, 0, 0],
+      "position": [
+        0,
+        0,
+        0.3
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
       "amb": 1,
       "dir": 0.8
     }
