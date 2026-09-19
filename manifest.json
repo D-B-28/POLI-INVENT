@@ -3,10 +3,10 @@
   "targets": [
     {
       "target": 0,
-      "name": "Forlanini ",
-      "desc": "",
+      "name": "Enrico Forlanini - Elicottero sperimentale - 1877 a vapore - ",
+      "desc": "Benvenuto nella tua prima tappa!\nGuarda la mappa e individua un edificio a L.\nRaggiungi l’estremità sud e osserva con attenzione.\nControlla sotto gli alti sgabelli: lì troverai una nave.",
       "model": "models/opera00.glb",
-      "scale": 2.5,
+      "scale": 2.95,
       "position": [
         0,
         0,
@@ -22,33 +22,14 @@
     },
     {
       "target": 1,
-      "name": "Forlanini - Idroplano ",
-      "desc": "",
+      "name": "Enrico Forlanini - Idrofoil  - 1898–1903",
+      "desc": "Torna davanti al Trifoglio e dirigiti a sud trova il tunnel, cerca una scala con una stella rossa.\nPoi individua i 22 minuscoli uomini in un tavolo.\nNel punto in cui si segnano i punti troverai un dirigibile.",
       "model": "models/opera01.glb",
-      "scale": 2,
+      "scale": 2.25,
       "position": [
         0,
         0,
-        0.5
-      ],
-      "rotation": [
-        0,
-        90,
-        0
-      ],
-      "amb": 1.1,
-      "dir": 0.9
-    },
-    {
-      "target": 2,
-      "name": "Forlanini - Dirigibile",
-      "desc": "",
-      "model": "models/opera02.glb",
-      "scale": 2,
-      "position": [
-        0,
-        -0.05,
-        0.35
+        0.95
       ],
       "rotation": [
         0,
@@ -59,14 +40,33 @@
       "dir": 0.8
     },
     {
-      "target": 3,
-      "name": "Natta - Polipropilene isotattico",
-      "desc": "",
-      "model": "models/opera03.glb",
-      "scale": 2,
+      "target": 2,
+      "name": "Enrico Forlanini - Dirigibile semirigido - 1909",
+      "desc": "Ora dirigiti verso sud, in un prato verde.\nSotto la “Chimica” cerca l'immagine di uno scolapasta.",
+      "model": "models/opera02.glb",
+      "scale": 2.45,
       "position": [
         0,
         0,
+        0.4
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "amb": 1,
+      "dir": 0.8
+    },
+    {
+      "target": 3,
+      "name": "Giulio Natta - Polipropilene isotattico (Moplen) - 1954",
+      "desc": "Guardati intorno e torna nel grande prato.\nSu un edificio cerca l’oggetto che segna il tempo.\nIl prossimo indizio si trova vicino alla sua porta.",
+      "model": "models/opera03.glb",
+      "scale": 1.9,
+      "position": [
+        0,
+        0.05,
         0.2
       ],
       "rotation": [
@@ -79,67 +79,10 @@
     },
     {
       "target": 4,
-      "name": "Luigi Dadda - Dadda Multiplier",
-      "desc": "",
+      "name": "Luigi Dadda - Calcolatore elettronico CRC 102A - 1954",
+      "desc": "Torna nel tunnel e, appena esci, trova le scale a est.\nSali sulla terrazza e cerca un satellite tra i rami degli alberi.",
       "model": "models/opera04.glb",
-      "scale": 2,
-      "position": [
-        0,
-        0,
-        0.25
-      ],
-      "rotation": [
-        0,
-        0,
-        0
-      ],
-      "amb": 1,
-      "dir": 0.8
-    },
-    {
-      "target": 5,
-      "name": "Francesco Carassa - Satellite SIRIO",
-      "desc": "Anno: 1977 \n\nNel 1977 venne lanciato SIRIO, il primo satellite italiano dedicato alle telecomunicazioni sperimentali. Il progetto, sviluppato con un importante contributo scientifico di Francesco Carassa, aveva l’obiettivo di sperimentare comunicazioni via satellite a frequenze molto elevate, fino a 18 GHz. SIRIO raggiunse l’orbita geostazionaria e permise di studiare la propagazione delle onde radio attraverso l’atmosfera. La missione rappresentò un importante passo avanti per la ricerca italiana nel campo delle telecomunicazioni satellitari e contribuì allo sviluppo delle tecnologie utilizzate nelle successive comunicazioni spaziali.",
-      "model": "models/opera05.glb",
-      "scale": 1.6,
-      "position": [
-        0,
-        0,
-        0.55
-      ],
-      "rotation": [
-        90,
-        0,
-        0
-      ],
-      "amb": 1,
-      "dir": 0.8
-    },
-    {
-      "target": 6,
-      "name": "Amalia Ercoli Finzi - Sistema SD2 di Rosetta",
-      "desc": "Anno: 1990–1999\nMissione Rosetta: 2004–2016\n\nAmalia Ercoli Finzi guidò lo sviluppo scientifico del sistema SD2 (Sampling, Drilling and Distribution), progettato per la missione europea Rosetta e installato sul lander Philae. Il dispositivo aveva il compito di perforare la superficie della cometa 67P/Churyumov-Gerasimenko, raccogliere campioni e trasferirli agli strumenti scientifici per l’analisi. Il trapano poteva raggiungere circa 23 centimetri di profondità. SD2 fu fondamentale per ottenere materiale direttamente dalla superficie della cometa, permettendo di studiarne la composizione in condizioni mai sperimentate prima.",
-      "model": "models/opera06.glb",
-      "scale": 2,
-      "position": [
-        0,
-        0,
-        0.5
-      ],
-      "rotation": [
-        0,
-        0,
-        0
-      ],
-      "amb": 1,
-      "dir": 0.8
-    },
-    {
-      "target": 7,
-      "name": "CONGRATULAZIONI  ",
-      "desc": "Hai risolto la caccia e raggiunto il tesoro.\nHai seguito le invenzioni del passato.  \nOra tocca a te. \n E tu cosa inventeresti?",
-      "model": "models/opera07.glb",
-      "scale": 1.5,
+      "scale": 1.85,
       "position": [
         0,
         0,
@@ -147,10 +90,67 @@
       ],
       "rotation": [
         0,
-        0,
+        90,
         0
       ],
       "amb": 1,
+      "dir": 0.8
+    },
+    {
+      "target": 5,
+      "name": "Francesco Carassa - Satellite SIRIO - 1977",
+      "desc": "Torna al trifoglio e dirigiti verso il confine più a ovest.\nSegui il colore arancione: ti condurrà a una scala a chiocciola che porta al piano superiore.\nCerca la Casa dei Libri.\nAll’ingresso troverai un nuovo satellite da scansionare.",
+      "model": "models/opera05.glb",
+      "scale": 1.8,
+      "position": [
+        0,
+        -0.05,
+        0.45
+      ],
+      "rotation": [
+        0,
+        10,
+        0
+      ],
+      "amb": 1,
+      "dir": 0.8
+    },
+    {
+      "target": 6,
+      "name": "Amalia Ercoli Finzi - Sistema SD2 della missione Rosetta - fine anni ’90",
+      "desc": "Sei arrivato all’ultima tappa!\nOra traccia le linee e unisci i punti che hai segnato sulla mappa.\nCollega il Sistema SD2 con l’Idrofoil e l’Elicottero con il Dirigibile.\n\nIl punto in cui le due linee si incontrano indica la X.\nÈ proprio lì che si trova il tesoro!\nLa ricerca, però, non è ancora finita.\nCammina sulle grate e cerca le scale disegnate sul vetro.\nLì troverai una freccia che ti indicherà l’ultimo simbolo da scansionare.",
+      "model": "models/opera06.glb",
+      "scale": 2.25,
+      "position": [
+        0,
+        0,
+        0.4
+      ],
+      "rotation": [
+        0,
+        90,
+        0
+      ],
+      "amb": 1.6,
+      "dir": 0.8
+    },
+    {
+      "target": 7,
+      "name": "CONGRATULAZIONI!!!!",
+      "desc": "Hai raggiunto il tesoro seguendo le grandi invenzioni del passato. \n\nOra tocca a te!\nTu cosa inventeresti? ",
+      "model": "models/opera07.glb",
+      "scale": 1.65,
+      "position": [
+        0,
+        0,
+        0.35
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "amb": 1.3,
       "dir": 0.8
     }
   ]
